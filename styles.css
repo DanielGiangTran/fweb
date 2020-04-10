@@ -1,0 +1,123 @@
+body{
+color: #40514E;
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+p{
+  line-height: 2;
+
+}
+.p{
+  width: 45%;
+  color: #40514E;
+  margin: auto;
+  font-size: 2rem;
+  color:#66BFBF;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.cloud2{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+span{
+   text-decoration: underline;
+    border-radius: 50%;
+}
+.profilepic{
+  height: 210px;
+  width: 190px;
+  border-radius: 59%;
+  margin-top: 70px;
+}
+.Name{
+  color: #66BFBF;
+}
+.top-container{
+  background-color: #cff1ef;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 10px 0 20px 0;
+  margin-top: 40px;
+
+}
+h1{
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5 rem;
+    font-weight: normal;
+    color:#66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:   #11999E;
+}
+.gmaillogo{
+  width: 47px;
+  height: 36px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+a{
+  color:  #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.skill1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.hr{
+  width: 10%;
+  border-top: solid 8px;
+  border-style: dotted;
+  border-bottom: 0;
+  border-right: 0;
+  border-left: 0;
+  color: #EAF6F6;
+  margin: 60px auto;
+}
+.Copyright{
+  color: #EAF6F6;
+  position: relative;
+  top: 20px;
+}
+.contactmess{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.logo{
+  width: 40px;
+  height: 40px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.contactme{
+position: relative;
+bottom: 10px;
+
+}
